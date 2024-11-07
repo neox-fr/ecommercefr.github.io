@@ -1,1 +1,1 @@
-# ecommercefr.github.io
+Creating a ecommerce website for school project
